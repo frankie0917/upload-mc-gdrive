@@ -1,0 +1,9 @@
+{
+  "name": "upload-mc-gdrive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
